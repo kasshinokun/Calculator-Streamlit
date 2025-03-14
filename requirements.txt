@@ -108,7 +108,6 @@ PyPDF2==3.0.1
 pypng==0.20220715.0
 pyreadline3==3.5.4
 pyserial==3.5
-PySimpleGUI==5.0.6
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-slugify==8.0.4
